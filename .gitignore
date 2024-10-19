@@ -1,3 +1,6 @@
+# Secrets
+.env
+
 # Compiled class file
 *.class
 
